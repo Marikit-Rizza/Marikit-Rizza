@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @Marikit-Rizza
-- 👀 I’m interested in anything as long as I'm happy.
-- 🌱 I’m currently learning in language PHP, CSS
-- 💞️ I’m looking to collaborate on ...
+💻 Aspiring IT professional | Passionate about Web Development, IoT, and Cybersecurity
+🌱 Currently learning C, Python, and Arduino projects
+🚀 Interested in building real-world applications that solve everyday problems
+📚 Lifelong learner who enjoys experimenting with new technologies
+🔗 Let’s collaborate on open-source projects and innovative ideas!
 - 📫 How to reach me send message to my email: roblesrizzamae@gmail.com
 - - 😄 Pronouns: she/her
 - ⚡ Fun fact: I dont eat vegetables.
