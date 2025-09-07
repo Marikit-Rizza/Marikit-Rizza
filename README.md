@@ -4,8 +4,7 @@
 🚀 Interested in building real-world applications that solve everyday problems
 📚 Lifelong learner who enjoys experimenting with new technologies
 🔗 Let’s collaborate on open-source projects and innovative ideas!
-- 📫 How to reach me send message to my email: roblesrizzamae@gmail.com
-- - 😄 Pronouns: she/her
+📫 How to reach me send message to my email: roblesrizzamae@gmail.com
 - ⚡ Fun fact: I dont eat vegetables.
 
 <!---
